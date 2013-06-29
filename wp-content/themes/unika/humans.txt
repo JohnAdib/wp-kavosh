@@ -1,0 +1,17 @@
+Mixa Team
+
+/* MAIN */
+Develop & Main Design: Javad Evazzadeh
+Site: http://Evazzadeh.com
+
+/* SITE */
+Last update: 08/08/2013
+Doctype: HTML5
+IDE: Sublime
+
+/* SPECIAL THANKS */
+Designer: Sadegh Salehi
+Marketer: Mohammad MajidZadeh
+Usability: Mixa Team Members
+
+Improve Design on 2015 Nov after server fail!
